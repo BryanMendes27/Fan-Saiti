@@ -1,0 +1,73 @@
+h1{
+    color: #fff;
+}
+
+#title{
+    text-align: center;
+}
+
+h2{
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+ol{
+    color: #fff;
+}
+
+
+img{
+    border:5px solid #FFF;
+    width: 200px;
+    height: 200px;
+    
+    background-position:center;
+}
+
+
+/* Todo o corpo dessa página */
+body{
+    background-color: #000;
+
+}
+/* todas os textos dessa página */
+p{
+    color:#FFF;
+    font-size: 28px;
+}
+
+
+
+
+
+
+
+/* Botões Estilizados */
+.BtsComFoto{
+    display: 10px;
+    flex-direction: column;
+    align-self: center;
+    gap: 10px;
+    width: fit-content;
+    margin: auto;
+}
+
+.botao{
+    padding: 10px 20px;
+    background-color: rgb(74, 0, 172);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+
+
+
+

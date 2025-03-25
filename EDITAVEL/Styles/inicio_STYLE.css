@@ -1,0 +1,92 @@
+/* TUDO NESSA CLASSE NO CENTRO */
+.CENTRO{
+    text-align: center;
+    color: azure;
+}
+
+
+
+
+
+
+/* tudo nessa classe deve estar junto em alguns casos */
+.JUNTO{
+    color: blanchedalmond;
+    text-align: center;
+    align-self: center;
+}
+
+
+
+
+
+/* logos do fruit Loop */
+
+img{
+    max-width: 5%;
+    height: auto;
+    display: block;
+    margin-bottom: -4px;
+}
+
+.CantoE{
+    position: absolute;
+
+}
+
+.CantoD{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 150px;
+}
+
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+
+/* Todo o corpo dessa página */
+body{
+    background-color: black;
+
+}
+/* todas os textos dessa página */
+p{
+    color: bisque;
+    font-size: 28px;
+}
+
+
+
+
+
+
+
+/* Botões Estilizados */
+.BtsComFoto{
+    display: 10px;
+    flex-direction: column;
+    align-self: center;
+    gap: 10px;
+    width: fit-content;
+    margin: auto;
+}
+
+.botao{
+    padding: 10px 20px;
+    background-color: rgb(74, 0, 172);
+    border: brown;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+
+
+
+
