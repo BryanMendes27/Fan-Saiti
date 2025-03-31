@@ -12,6 +12,7 @@ h2{
 }
 
 
+
 a{
     text-decoration: none;
     color: #fff;
@@ -43,6 +44,9 @@ p{
 }
 
 
+button:hover{
+    background-color: blue;
+  }
 
 
 
@@ -61,7 +65,7 @@ p{
 .botao{
     padding: 10px 20px;
     background-color: rgb(74, 0, 172);
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     cursor: pointer;
     border-radius: 5px;
 }

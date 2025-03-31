@@ -5,10 +5,6 @@
 }
 
 
-
-
-
-
 /* tudo nessa classe deve estar junto em alguns casos */
 .JUNTO{
     color: blanchedalmond;
@@ -16,7 +12,9 @@
     align-self: center;
 }
 
-
+button:hover{
+    background-color: blue;
+  }
 
 
 
@@ -29,9 +27,14 @@ img{
     margin-bottom: -4px;
 }
 
+#Saize{
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+}
 .CantoE{
-    position: absolute;
-
+    display: flex;
+    justify-content: space-betweent;      
 }
 
 .CantoD{
@@ -59,10 +62,6 @@ p{
     color: bisque;
     font-size: 28px;
 }
-
-
-
-
 
 
 

@@ -11,6 +11,10 @@ h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+button:hover{
+    background-color: blue;
+  }
+
 
 a{
     text-decoration: none;
@@ -61,7 +65,7 @@ p{
 .botao{
     padding: 10px 20px;
     background-color: rgb(74, 0, 172);
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     cursor: pointer;
     border-radius: 5px;
 }

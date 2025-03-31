@@ -1,0 +1,26 @@
+#title  {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: azure;
+}
+
+p{
+    color: azure;
+}
+
+img{
+    background-color: #ddd;
+    border-radius: 50%;
+    height: 200px;
+    object-fit: cover;
+    width: 200px;  
+  }
