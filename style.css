@@ -15,9 +15,12 @@
 button:hover{
     background-color: blue;
   }
-
-
-
+#element {
+    background-image: url("/EDITAVEL/FOTOS/xxxx.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    
+}
 /* logos do fruit Loop */
 
 img{
